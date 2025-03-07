@@ -10,6 +10,7 @@ instance/
 *.swo
 *.log
 .cph/
+cph/
 # React + Vite
 node_modules/
 dist/
