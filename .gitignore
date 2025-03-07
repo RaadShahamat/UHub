@@ -9,7 +9,7 @@ instance/
 *.swp
 *.swo
 *.log
-
+.cph/
 # React + Vite
 node_modules/
 dist/
